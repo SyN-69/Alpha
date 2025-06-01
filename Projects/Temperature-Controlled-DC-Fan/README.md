@@ -12,6 +12,6 @@
 The project describes the design and implementation of a temperature-controlled fan and LED indicator circuit using operational amplifiers (op-amps), an LM35 temperature sensor, and an Arduino for display purposes.
 
 For detailed information, please see the attached PDF file in this folder.
-
+You can view the project abstract here: [Introduction.pdf](./Introduction.pdf)  
+> ⚠️ GitHub may not preview the PDF directly. Click the link to download and view the file on your device.
 ---
-
